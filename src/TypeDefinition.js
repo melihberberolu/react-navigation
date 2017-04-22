@@ -201,7 +201,6 @@ export type NavigationStackScreenOptions = NavigationScreenOptions & {
   headerTintColor?: string,
   headerLeft?: React.Element<*>,
   headerBackTitle?: string,
-  headerTruncatedBackTitle?: string,
   headerPressColorAndroid?: string,
   headerRight?: React.Element<*>,
   headerStyle?: Style,
